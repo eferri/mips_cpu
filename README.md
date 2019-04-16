@@ -1,5 +1,6 @@
 # MIPS Verilog CPU
-A simple Verilog implementation of a 32-bit MIPS Cpu.
+A simple Verilog implementation of a 32-bit MIPS Cpu.  
+Implemented as a final group project for UVic CSC 350: Computer Architecture
 
 # Requirements
 * Icarus Verilog simulator: http://iverilog.icarus.com/
